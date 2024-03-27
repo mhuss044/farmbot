@@ -1,4 +1,4 @@
 baseURL = 'farmbotwebsite.me'
 languageCode = 'en-us'
 title = 'Farmbot'
-theme = 'mytheme'
+theme = 'hyde'
