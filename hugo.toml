@@ -1,4 +1,4 @@
-baseURL = 'farmbotwebsite.me'
+baseURL = ''
 languageCode = 'en-us'
 title = 'Farmbot'
 theme = 'hyde'
