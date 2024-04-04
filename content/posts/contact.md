@@ -5,5 +5,5 @@ menus = 'main'
 +++
 #*emphasized* text.
 
-**bold** Email: 
-**bold** Phone:
+**Email:**
+**Phone:** 
