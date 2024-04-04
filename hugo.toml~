@@ -1,6 +1,10 @@
+# Changed from farmbotwebsite.me to empty and CSS started loading in fine
 baseURL = ''
 languageCode = 'en-us'
 title = 'Farmbot'
 theme = 'hyde'
+# This line defines a menu entry for each toplevel section of the site, 
+#accessed thru site.Menus.main in templates, can instead define inside .md file menus = 'main'
+#sectionPagesMenu = 'main'
 [params]
 description ="Our mission is to leverage automation to build sustainable, economical, and easy to use automation solutions that enable community members to host urban agriculture infrastructure that is both dense and economical." 
