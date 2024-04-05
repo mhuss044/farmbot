@@ -9,8 +9,11 @@ menus = 'main'
 
 Our plan involves starting by building 2 different urban agriculture setups on 2 different properties with unique microbiomes. One is a dense urban backyard in centretown, and the other is a suburban property with a large backyard and a lot of sun. The goal with starting with these two very different challenges is to get good data on how the farmbot system performs under different conditions. We will be installing weather stations as well, in order to get comprehensive data on the property’s respective microclimates. The farmbots will be setup to start growing by the end of spring. Stay tuned for more updates.
 
-
-![145Col](145Col.png)
-![Arl1](305Arl1.png)
-![Arl2](305Arl2.png)
+**Design**
+|145 Columbus   |   |
+|---------------|---|
+|![145Col](145Col.png)|
+|305 Arlington  |   |
+|---------------|---|
+|![Arl1](305Arl1.png)|![Arl2](305Arl2.png)|
 
