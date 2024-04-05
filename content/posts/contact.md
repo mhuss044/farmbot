@@ -5,5 +5,6 @@ menus = 'main'
 +++
 <!--*emphasized* text.
 -->
-**Email:** <br>
+**Email:** 
+
 **Phone:** 
