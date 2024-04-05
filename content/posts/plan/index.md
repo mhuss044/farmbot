@@ -14,5 +14,5 @@ Our plan involves starting by building 2 different urban agriculture setups on 2
 |---------------|---|
 |![145Col](145Col.png)|
 |305 Arlington  |   |
-|![Arl1](305Arl1.png)|![Arl2](305Arl2.png)
+|![Arl1](305Arl1.png)|![Arl2](305Arl2.png)|
 
