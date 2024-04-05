@@ -4,7 +4,6 @@ body {
   line-height: 1.5;
   margin: 1rem;
   max-width: 768px;
-  background-color: #cdcdb1;
 }
 
 header {
