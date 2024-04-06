@@ -271,9 +271,9 @@ tbody tr:nth-child(odd) th {
  */
 
 .pic-ctn {
+z-index: -1;
   width: 100vw;
   height: 200px;
-z-index: -1;
 }
 
 @keyframes display {
